@@ -18,3 +18,6 @@ Lets make a list again
 * Commit
    1. good summary
    2. good detailed
+* push 
+* observe
+
