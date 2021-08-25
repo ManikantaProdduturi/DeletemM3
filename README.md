@@ -29,3 +29,7 @@ LInk to the other page [Second](Second.md)
 ------------
 
 adding the image ![dog](C:\Users\S544904\Desktop).
+
+------------
+
+(:left/:center:/right:)
