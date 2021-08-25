@@ -31,6 +31,6 @@ LInk to the other page [Second](Second.md)
 
 ------------
 
-![dog](dog.jpg).
+![dog](dog.jpg)
 
 ------------
