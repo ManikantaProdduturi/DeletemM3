@@ -21,4 +21,9 @@ Lets make a list again
 * push 
 * observe
 
+------------
+Link to [google](http://google.com)
+
+LInk to the other page[Second](Second.md)
+
 
