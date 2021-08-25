@@ -24,6 +24,8 @@ Lets make a list again
 ------------
 Link to [google](http://google.com)
 
-LInk to the other page[Second](Second.md)
+LInk to the other page [Second](Second.md)
 
+------------
 
+adding the image ![dog](C:\Users\S544904\Desktop).
