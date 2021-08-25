@@ -31,5 +31,3 @@ LInk to the other page [Second](Second.md)
 adding the image ![dog](C:\Users\S544904\Desktop).
 
 ------------
-
-Use : to show alignment on dashes (:left/:center:/right:)■Can add spaces to help readabilityThis is a truth table| P | Q | P and Q || ---| ---| ---: || T | T | T || T | F | F || F | T | F || F | F | F |
