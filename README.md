@@ -24,6 +24,6 @@ Lets make a list again
 ------------
 Link to [google](http://google.com)
 
-LInk to the other page[Second] (Second.md)
+LInk to the other page[Second](Second.md)
 
 
