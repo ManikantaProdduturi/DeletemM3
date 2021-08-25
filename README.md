@@ -28,6 +28,6 @@ LInk to the other page [Second](Second.md)
 
 ------------
 
-adding the image ![dog](dog.jpg).
+![dog](dog.jpg).
 
 ------------
